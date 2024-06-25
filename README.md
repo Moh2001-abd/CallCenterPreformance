@@ -9,7 +9,7 @@ As the Capstone project for the Excel for Business Specialization from Macquarie
 ---------------
 
 The dashboard is designed to provide a 360-degree view of the call center's performance, integrating key business metrics to identify areas of improvement. I leveraged Excel's advanced features, including:
-![DashScreen](https://github.com/Moh2001-abd/CallCenterPreformance/assets/128303383/538d7c70-7816-4fef-8a76-00413f0d3995)
+
 
 ### Data Modeling
 
