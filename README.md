@@ -38,7 +38,7 @@ This project demonstrates my proficiency in:
 * Dynamic calculation setup
 * User experience design
 
-**Conclusion**
+****
 ---------------
 
 The call center performance dashboard serves as a testament to my ability to apply Excel skills in a real-world business context, providing a valuable solution for the call center to optimize its performance and drive growth.
